@@ -199,5 +199,3 @@ while rodando:
 
 
 pygame.quit()
-
-print("Bom jogo")
